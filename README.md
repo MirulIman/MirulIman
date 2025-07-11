@@ -1,5 +1,13 @@
 ## Hi there 👋
+# Hi there 👋, I'm Mirul Iman
 
+- 🔭 I’m currently working on [Project Name](https://github.com/yourproject)
+- 🌱 I’m learning Go, TypeScript, and Machine Learning
+- 💬 Ask me about Python, Docker, or Cloud Infrastructure
+- 📫 How to reach me: mirul@email.com
+- ⚡ Fun fact: I love hiking and drone photography!
+
+![MirulIman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirulIman&show_icons=true)
 <!--
 **MirulIman/MirulIman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
