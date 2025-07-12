@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miruliman&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruliman&theme=gruvbox" height="180"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 10px 20px 20px 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=miruliman&hide_rank=false&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruliman&theme=gruvbox" height="150" alt="stats graph"/>
 </div>
 
 <p align="center">
