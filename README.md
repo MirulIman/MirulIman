@@ -47,15 +47,6 @@
 
 ---
 
-## 📝 Blog / Articles
-
-💡 Sharing my thoughts on machine learning, Python, and data:
-
-- 🔗 [Why Seaborn Still Rocks for Data Visualization](https://your-blog.com/article1) *(Coming Soon)*
-- 🔗 [ML Model Deployment – The Smart Way](https://your-blog.com/article2) *(Coming Soon)*
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
