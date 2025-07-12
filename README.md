@@ -26,10 +26,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miruliman&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" height="180" weight="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruliman&theme=gruvbox" height="165"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=miruliman&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruliman&theme=gruvbox" height="180"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miruliman&theme=rogue" alt="activity graph" />
