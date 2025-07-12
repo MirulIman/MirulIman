@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="justified">
   <img src="https://github-readme-stats.vercel.app/api?username=miruliman&show_icons=true&theme=gruvbox&count_private=true&hide_title=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miruliman&theme=gruvbox" height="160"/>
 </p>
